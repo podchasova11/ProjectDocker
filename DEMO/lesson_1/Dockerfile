@@ -1,4 +1,4 @@
-FROM python:3.12.0b3-alpine3.
+FROM python:3.12.0b3-alpine3.18
 
 COPY ./ /project
 
